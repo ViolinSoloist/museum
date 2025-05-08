@@ -1,2 +1,2 @@
 # museum
-Um pequeno projeto como homangem a minha aniversariante :)
+Um pequeno projeto como homenagem a minha aniversariante :)
